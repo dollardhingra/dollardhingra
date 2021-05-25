@@ -4,12 +4,12 @@
 - 📫 How to reach me: Email: ddhingra1991@gmil.com | [linkedin](https://www.linkedin.com/in/dollardhingra)
 
 ---
-<details>
+
 <summary>📊 Github Stats</summary>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=dollardhingra&show_icons=true&theme=gotham" alt="Dollar Dhingra | Stats" />
 
-</details>
+
 
 
  ![Visitor Count](https://profile-counter.glitch.me/{dollardhingra}/count.svg)
