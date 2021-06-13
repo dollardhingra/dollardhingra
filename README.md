@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dollar Dhingra
 - 👀 I’m interested in best engineering practices, web development & python.
 - 💞️ I’m looking to collaborate on open source projects & writing technical articles
-- 📫 How to reach me: Email: ddhingra1991@gmil.com | [linkedin](https://www.linkedin.com/in/dollardhingra) | (Website)[https://dollardhingra.com]
+- 📫 How to reach me: Email: ddhingra1991@gmil.com | [linkedin](https://www.linkedin.com/in/dollardhingra) | [Website](https://dollardhingra.com)
 
 ---
 
